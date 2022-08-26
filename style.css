@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient( rgb(236, 208, 240), rgb(171, 220, 248));
+    font-family: cursive;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 15px;
+    float: left;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 15px;
+}
+
+p{
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+h1{
+    font-family: 'DynaPuff', cursive;
+    font-size: 50px;
+    margin-left: 80px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#sketch_to_draw{
+    color: red;
+    font-size: 25px;
+}
